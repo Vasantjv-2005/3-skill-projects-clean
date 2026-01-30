@@ -176,7 +176,7 @@ Learning Outcomes
 
 ======================================================================
 
-### ***Social Media App (Mini Instagram) – Project 6***
+### ***Social Media App (Mini Instagram) –(Connect-share) Project 6***
 
 📌 Description
 
